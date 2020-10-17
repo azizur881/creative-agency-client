@@ -1,0 +1,15 @@
+.footer{
+    width:100%;
+    height: 600px;
+    background: rgba(251, 208, 98, 1);
+}
+.input{
+    width:350px;
+    height: 59px;
+    border:none;
+}
+.message{
+    width:350px;
+    height: 250px;
+    border:none;
+}
